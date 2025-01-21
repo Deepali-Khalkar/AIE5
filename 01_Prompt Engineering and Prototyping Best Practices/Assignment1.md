@@ -37,19 +37,32 @@ Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
 
-        ![alt text](activity1.png)
+![activity1](https://github.com/user-attachments/assets/94f96035-43b2-495c-9653-3b6fda8f11ff)
 
-    - Aspect Tested:
+    - Aspect Tested: Question/Answering and summarization
 
     
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    ![activity2](https://github.com/user-attachments/assets/e3c3eaf1-d597-4180-a47b-87915cb2c486)
+    - Aspect Tested: Summarization
+      
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    ![activity3](https://github.com/user-attachments/assets/f6f36dc1-5b60-4de5-951a-cda44d6d77a8)
+
+    - Aspect Tested: Text generation
+      
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    
+    ![activity4](https://github.com/user-attachments/assets/b4990a74-15aa-421c-92f3-a1a8fa3462bf)
+
+    - Aspect Tested: Reasoning. Question/Answering
+  
+      
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+
+    ![activity5](https://github.com/user-attachments/assets/f0300e10-6705-4477-8f5f-32588c9ec92d)
+
+    - Aspect Tested: Text Generation/Tone
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
